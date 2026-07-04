@@ -66,33 +66,22 @@ python create_db.py
 ```bash
 python dashboard.py
 ```
-
 ## 📸 Screenshots
 
-You can add screenshots of:
-
-- Dashboard
-- Product Module
-- Billing Window
-- Sales Window
-
-(Create a folder named **screenshots** and upload images.)
-
-Example:
-
-```
-screenshots/
-    dashboard.png
-    billing.png
-```
-
-Then include
-
-```md
-## Dashboard
-
+### Dashboard
 ![Dashboard](screenshots/dashboard.png)
-```
+
+### Employee Module
+![Employee](screenshots/employee.png)
+
+### Product Module
+![Product](screenshots/product.png)
+
+### Billing
+![Billing](screenshots/billing.png)
+
+### Sales
+![Sales](screenshots/sales.png)
 
 ## 🎯 Future Improvements
 
