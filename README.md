@@ -80,8 +80,8 @@ python dashboard.py
 ### Billing
 ![Billing](screenshots/billing.png)
 
-### Sales
-![Sales](screenshots/sales.png)
+### Supplier
+![Supplier](screenshots/supplier.png)
 
 ## 🎯 Future Improvements
 
