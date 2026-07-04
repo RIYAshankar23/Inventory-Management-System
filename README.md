@@ -77,10 +77,10 @@ python dashboard.py
 ### Product Module
 ![Product](screenshots/product.png)
 
-### Billing
+### Billing Module
 ![Billing](screenshots/billing.png)
 
-### Supplier
+### Supplier Module
 ![Supplier](screenshots/supplier.png)
 
 ## 🎯 Future Improvements
